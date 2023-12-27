@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- I am currently a senior at Nanyang Technological University
 - 
 
 <!---

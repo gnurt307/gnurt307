@@ -1,11 +1,9 @@
-### 👋 Hey there, I’m Trung!
+### 🧬 Hi, I'm Trung!
 
-By day: Project Officer at NTU Singapore  
-By night: Bioinformatics explorer mapping the chaos of RNA and cancer biology 🧬💻
+Currently a Project Officer at NTU Singapore, somewhere between:
+- running bioinformatics pipelines 💻  
+- running Western Blot 🧪  
+- and running away from failed library preps 😅
 
-✨ I run wet labs.  
-✨ I run scripts.  
-✨ Sometimes they even run without errors.
-
-Currently leveling up my computational skills while staying loyal to my trusty pipette.  
-If you like multi-omics, RNA biology, or cool data visualizations — we’re already friends.
+I’m into cancer biology, RNA biology, alternative splicing, and anything that turns raw sequencing reads into scientific drama.  
+Welcome to the chaos — feel free to explore my projects!
